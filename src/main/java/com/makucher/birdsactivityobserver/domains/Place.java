@@ -11,6 +11,7 @@ import java.math.BigDecimal;
 @NoArgsConstructor
 @Builder
 @AllArgsConstructor
+@Table(name = "places", schema = "public")
 public class Place {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -1,4 +1,0 @@
-flyway:
-  user: postgres
-  passowrd: qwerty
-  schemas: birds_app
