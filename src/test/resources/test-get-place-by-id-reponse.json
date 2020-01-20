@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "label": "test1",
+    "latitude": 11,
+    "longitude": 20
+  },
+  {
+    "id": 2,
+    "label": "test2",
+    "latitude": 30,
+    "longitude": 20
+  }
+]

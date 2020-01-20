@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: ${PG_USER}
+    password: ${PG_PASSWORD}
+    url: ${PG_URL}
